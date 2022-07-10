@@ -53,6 +53,10 @@ svg{
    margin: auto;
 }
 
+.test{
+    color: red;
+}
+
 #clock{
     animation: clockHand 5s infinite linear;
     
